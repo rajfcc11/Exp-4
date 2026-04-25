@@ -1,7 +1,6 @@
 # Experiment 4 - React Hooks: useContext, useReducer, useMemo
 
-## 🚀 Live Demo
-[23BAI70214-4-kasamvivek-reddy.vercel.app](https://23bai70214-4-kasamvivek-reddy.vercel.app)
+
 
 ## 📌 Overview
 This experiment is an extension of Experiment 3 (Multi-page React application using React Router).
