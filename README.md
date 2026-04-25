@@ -62,6 +62,6 @@ src/
 - CSS
 
 ## 👤 Author
-- **Name:** Kasam Vivek Reddy
-- **UID:** 23BAI70214
+- **Name:** Raj Kumar
+- **UID:** 23BAI70573
 - **Course:** B.Tech Artificial Intelligence
